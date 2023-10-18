@@ -20,12 +20,10 @@
     <a href="https://instagram.com/ayanm_2004" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="ayanm_2004" height="30" width="40" /></a>
-    <a href="https://fb.com/ayan mukherjee" target="blank"><img align="center"
+   <a href="https://www.facebook.com/profile.php?id=100026083025684&mibextid=ZbWKwL" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="ayan mukherjee" height="30" width="40" /></a>
-    <a href="https://medium.com/mrayan1012200@gmail.com" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-            alt="mrayan1012200@gmail.com" height="30" width="40" /></a>
+   
 
 </p>
 
