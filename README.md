@@ -42,9 +42,7 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Ayan1024&icon=0&color=0" alt="Profile Visit Counter"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ayan1024&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 
